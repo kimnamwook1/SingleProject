@@ -1,6 +1,6 @@
 # SingleProject
 
-## Semmary
+## Summary
 
 * First project of YGL(Instute course of immersive content developer using realtime engine)
 * Escape from a maze with run away from following monsters 
